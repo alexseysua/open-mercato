@@ -105,7 +105,7 @@ Add new modules to `src/modules.ts` with `from: '@app'`.
 
 ### i18n
 
-Translation files in `src/i18n/{locale}.json`. Supported locales: en, pl, es, de.
+Translation files in `src/i18n/{locale}.json`. Supported locales: en, pl, es, de, uk.
 
 ## Requirements
 
