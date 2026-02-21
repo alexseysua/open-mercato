@@ -18,6 +18,7 @@ const localeLabels: Record<Locale, string> = {
   de: 'Deutsch',
   es: 'Español',
   pl: 'Polski',
+  uk: 'Українська',
 }
 
 export function ProfileDropdown({
